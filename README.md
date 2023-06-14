@@ -29,7 +29,7 @@ to complete the installation from the command line.
 
 ## License ##
 
-Banghao.Chi21@student.xjtlu.edu.cn
+Banghao2@illinois.edu
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
